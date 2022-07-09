@@ -1,5 +1,5 @@
 [
 build
 ]
-command = "yarn functions"
+command = "npm functions"
 functions = "functions"
